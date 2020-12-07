@@ -1,0 +1,3 @@
+rida 1
+rida 2
+rida 3
